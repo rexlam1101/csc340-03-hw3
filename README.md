@@ -36,7 +36,13 @@ Please **DO NOT MODIFY** any other files. Modifying any other file will result i
 
 ## Running tests
 * To run the program, select the configuration `hw3_run` from the top right and click on run
-* You can run the tests using Clion: select the configuration `runAllHW3Tests` from the top right and click on run
+* You can run the tests using Clion: select the configuration `runMainHW3Tests` from the top right and click on run
+* To use Clion's Google test configuration:
+    * Goto Run->Edit Configurations..
+    * Select the "+" icon on the top left to add a new configuration of type "Google Test"
+    * Enter in a name, and also target configuration as "runMainHW3Tests"
+    * Select Ok.
+    * You can now use this configuration for better test display by CLion.
 
 ## Note
 * The program would not compile at first because the class hasn't been completed in `triangle.h`
