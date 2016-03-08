@@ -103,5 +103,4 @@ bool Triangle<T>::isIsosceles() const {
         return false;
 }
 
-
 #endif //HW3_TRIANGLE_H
