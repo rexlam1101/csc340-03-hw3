@@ -1,5 +1,4 @@
-#HW3 First-Name Last-Name
-TODO - Update your name in this readme.
+#HW3 Wai Ki Rex Lam
 
 TODO - Add a badge from travis CI here
 
