@@ -1,6 +1,6 @@
 #HW3 Wai Ki Rex Lam
 
-TODO - Add a badge from travis CI here
+[![Build Status](https://travis-ci.org/rexlam1101/HW3.svg?branch=master)](https://travis-ci.org/rexlam1101/HW3)
 
 ##Problem statement:
 
