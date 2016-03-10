@@ -64,7 +64,7 @@ std::vector<T> Triangle<T>::getSides() const {
 
 template<class T>
 T Triangle<T>::getArea() const {
-    double p = Triangle<T>::getPerimeter() / 2.0;
+    double p = Triangle<T>::getPerimeter() / 2;
     T area = sqrt(p*(p-side[0])*(p-side[1])*(p-side[2]));
     return area;
 }
